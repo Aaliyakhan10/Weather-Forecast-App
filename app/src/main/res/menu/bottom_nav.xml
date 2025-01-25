@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/today"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="Today"/>
+    <item
+        android:id="@+id/hourly"
+        android:icon="@drawable/baseline_access_time_24"
+        android:title="5-Day Forecast"/>
+    <item
+        android:id="@+id/air"
+        android:icon="@drawable/baseline_air_24"
+        android:title="Air Report"/>
+</menu>

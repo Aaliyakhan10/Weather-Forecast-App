@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_sky">#FF87CEEB</color>
+
+    <color name="cloud_white">#FFF5F5F5</color>
+    <color name="storm_grey">#FF708090</color>
+    <color name="rainy_blue">#FF4682B4</color>
+    <color name="night_black">#FF000000</color>
+    <color name="snow_white">#FFFFFFFF</color>
+    <color name="fog_grey">#FFD3D3D3</color>
+    <color name="harvest_gold_primary">#1AE1A36F</color>
+    <color name="calico">#DEC484</color>
+    <color name="hampton">#E2D8A5</color>
+    <color name="sea_nymph">#6F9F9C</color>
+    <color name="smalt_blue">#40577E89</color>
+    <color name="grey">#333</color>
+
+
+</resources>
